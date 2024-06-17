@@ -1,0 +1,2 @@
+
+    printf("%s",bet[j]);
